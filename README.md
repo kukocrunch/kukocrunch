@@ -1,7 +1,7 @@
 ## 👋👋 Hello! I’m @kukocrunch
 - 🌱 a web developer, still learning how to be a full-stack dev. 💪
 - 💻 6 years of expertise in PHP, CSS, HTML, JS
-- 🏭 Current [project](https://silverlinktrading.com) ⬅ 🔨
+- 🏭 Current [project] ⬅ 🔨
 - 📧 Contact me [benjo.ang@gmail.com](mailto:benjo.ang@gmail.com)
 
 <!---
